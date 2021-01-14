@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Century Gothic;
+}
+
+header{
+	background-image: url('images/beach.jpg');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+}
